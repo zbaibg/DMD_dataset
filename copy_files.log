@@ -1,0 +1,49 @@
+2024-04-30 09:16:33,247 - INFO - Begin copying files from /scratch/groups/ping_group/zbai29/GaAs_SOC_20231130 to ./data/GaAs_DFT
+2024-04-30 09:16:33,254 - INFO - totalE.out successfully copied 
+2024-04-30 09:16:33,254 - WARNING - No files matching totalE.momenta in /scratch/groups/ping_group/zbai29/GaAs_SOC_20231130
+2024-04-30 09:16:33,254 - WARNING - No files matching totalE.kPts in /scratch/groups/ping_group/zbai29/GaAs_SOC_20231130
+2024-04-30 09:16:33,255 - INFO - common.in successfully copied 
+2024-04-30 09:16:33,256 - INFO - totalE.in successfully copied 
+2024-04-30 09:16:33,257 - INFO - scf.in successfully copied 
+2024-04-30 09:16:33,258 - INFO - scf.out successfully copied 
+2024-04-30 09:16:33,258 - INFO - This folder finished
+
+2024-04-30 09:16:33,258 - INFO - Begin copying files from /scratch/groups/ping_group/zbai29/GaAs_SOC_20231130/ld-dmd-current/t300/small_dataset to ./data/GaAs_DFT/init_NkMult2
+2024-04-30 09:16:33,260 - INFO - lindbladInit.in successfully copied 
+2024-04-30 09:16:33,261 - INFO - lindbladInit.out successfully copied 
+2024-04-30 09:16:33,261 - INFO - This folder finished
+
+2024-04-30 09:16:33,261 - INFO - Begin copying files from /scratch/groups/ping_group/zbai29/GaAs_SOC_20231130/ld-dmd-current/t300/small_dataset/ldbd_data to ./data/GaAs_DFT/init_NkMult2/ldbd_data
+2024-04-30 09:16:33,262 - INFO - Gamma_ds.dat successfully copied 
+2024-04-30 09:16:33,269 - INFO - Gamma_ds.dat successfully copied 
+2024-04-30 09:16:33,271 - INFO - ldbd_bsq.out successfully copied 
+2024-04-30 09:16:33,272 - INFO - ldbd_ek.bin successfully copied 
+2024-04-30 09:16:33,273 - INFO - ldbd_erange_brange.dat successfully copied 
+2024-04-30 09:16:33,274 - INFO - ldbd_imsig.bin successfully copied 
+2024-04-30 09:16:33,275 - INFO - ldbd_imsige.out successfully copied 
+2024-04-30 09:16:33,276 - INFO - ldbd_imsigkn_bsq.out successfully copied 
+2024-04-30 09:16:33,277 - INFO - ldbd_imsigkn_flip.out successfully copied 
+2024-04-30 09:16:33,278 - INFO - ldbd_imsigkn.out successfully copied 
+2024-04-30 09:16:33,279 - INFO - ldbd_kpair_k1st.bin successfully copied 
+2024-04-30 09:16:33,279 - INFO - ldbd_kpair_k2nd.bin successfully copied 
+2024-04-30 09:16:33,280 - INFO - ldbd_kvec.bin successfully copied 
+2024-04-30 09:16:33,281 - INFO - ldbd_P1_lindblad.bin successfully copied 
+2024-04-30 09:16:33,283 - INFO - ldbd_P2_lindblad.bin successfully copied 
+2024-04-30 09:16:33,284 - INFO - ldbd_R.dat successfully copied 
+2024-04-30 09:16:33,285 - INFO - ldbd_size.dat successfully copied 
+2024-04-30 09:16:33,286 - INFO - ldbd_smat.bin successfully copied 
+2024-04-30 09:16:33,287 - INFO - ldbd_Umat.bin successfully copied 
+2024-04-30 09:16:33,288 - INFO - ldbd_vmat.bin successfully copied 
+2024-04-30 09:16:33,289 - INFO - ldbd_vvec.bin successfully copied 
+2024-04-30 09:16:33,289 - INFO - This folder finished
+
+2024-04-30 09:16:33,289 - INFO - Begin copying files from /scratch/groups/ping_group/zbai29/GaAs_DFT_nosym to ./data/GaAs_DFT_no_symmetry
+2024-04-30 09:16:33,289 - WARNING - No files matching totalE.out in /scratch/groups/ping_group/zbai29/GaAs_DFT_nosym
+2024-04-30 09:16:33,291 - INFO - totalE.momenta successfully copied 
+2024-04-30 09:16:33,292 - INFO - totalE.kPts successfully copied 
+2024-04-30 09:16:33,293 - INFO - common.in successfully copied 
+2024-04-30 09:16:33,293 - WARNING - No files matching totalE.in in /scratch/groups/ping_group/zbai29/GaAs_DFT_nosym
+2024-04-30 09:16:33,294 - INFO - scf.in successfully copied 
+2024-04-30 09:16:33,294 - INFO - scf.out successfully copied 
+2024-04-30 09:16:33,294 - INFO - This folder finished
+

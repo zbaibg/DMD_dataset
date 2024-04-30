@@ -1,0 +1,44 @@
+/scratch/groups/ping_group/zbai29/GaAs_SOC_20231130 ./data/GaAs_DFT
+totalE.out
+totalE.momenta
+totalE.kPts
+common.in
+totalE.in
+scf.in
+scf.out
+
+/scratch/groups/ping_group/zbai29/GaAs_SOC_20231130/ld-dmd-current/t300/small_dataset ./data/GaAs_DFT/init_NkMult2
+lindbladInit.in
+lindbladInit.out
+
+/scratch/groups/ping_group/zbai29/GaAs_SOC_20231130/ld-dmd-current/t300/small_dataset/ldbd_data ./data/GaAs_DFT/init_NkMult2/ldbd_data
+Gamma_ds.dat
+Gamma_ds.dat
+ldbd_bsq.out
+ldbd_ek.bin
+ldbd_erange_brange.dat
+ldbd_imsig.bin
+ldbd_imsige.out
+ldbd_imsigkn_bsq.out
+ldbd_imsigkn_flip.out
+ldbd_imsigkn.out
+ldbd_kpair_k1st.bin
+ldbd_kpair_k2nd.bin
+ldbd_kvec.bin
+ldbd_P1_lindblad.bin
+ldbd_P2_lindblad.bin
+ldbd_R.dat
+ldbd_size.dat
+ldbd_smat.bin
+ldbd_Umat.bin
+ldbd_vmat.bin
+ldbd_vvec.bin
+
+/scratch/groups/ping_group/zbai29/GaAs_DFT_nosym ./data/GaAs_DFT_no_symmetry
+totalE.out
+totalE.momenta
+totalE.kPts
+common.in
+totalE.in
+scf.in
+scf.out
