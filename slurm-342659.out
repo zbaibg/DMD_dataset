@@ -1,7 +1,0 @@
-Currently Loaded Modulefiles:
- 1) slurm/slurm/20.11.8   3) zbai_openmpi/openmpi5.0.2_gcc10.2.0  
- 2) gcc/10.2.0           
-/home/zbai15/data/GaAs/init/init2
-node045
-Mon Apr 29 07:19:24 PDT 2024
-Running program on 4 nodes with 64 total tasks, with each node getting 16 running on cores.
